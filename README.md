@@ -2,4 +2,4 @@
 Front-end
 
 Hello!
-It's time to learn Front-end. And i think i'm ready.
+It's time to learn Front-end. And i ready for it.
